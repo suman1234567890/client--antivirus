@@ -1,0 +1,9 @@
+G:\CloudFinal\client\client\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\CloudFinal\client\client\obj\x86\Debug\client.Form1.resources
+G:\CloudFinal\client\client\obj\x86\Debug\client.Properties.Resources.resources
+G:\CloudFinal\client\client\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\CloudFinal\client\client\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\CloudFinal\client\client\bin\Debug\client.exe
+G:\CloudFinal\client\client\bin\Debug\client.pdb
+G:\CloudFinal\client\client\obj\x86\Debug\client.exe
+G:\CloudFinal\client\client\obj\x86\Debug\client.pdb
